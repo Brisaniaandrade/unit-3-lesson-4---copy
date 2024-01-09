@@ -1,0 +1,50 @@
+{
+    "name": "unit 3 lesson 4 - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.41",
+        "tag": "v1.12.41",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/58673437825ecb93a220c8f58a6f9bb5693896ba",
+        "target": "1.12.46",
+        "pxt": "8.5.52",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f5edba",
+        "#9d303b",
+        "#d26471",
+        "#e4943a",
+        "#c0c741",
+        "#647d34",
+        "#34859d",
+        "#17434b",
+        "#7ec4c1",
+        "#584563",
+        "#8c8fae",
+        "#3e2137",
+        "#d79b7d",
+        "#9a6348",
+        "#1f0e1c"
+    ]
+}
